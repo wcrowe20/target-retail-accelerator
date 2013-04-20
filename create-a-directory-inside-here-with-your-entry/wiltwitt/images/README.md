@@ -4,3 +4,5 @@ This mockup.jpg file contains four images describing UI for Target app.
 2. Second image is customer's personalized Ads.
 3. Third image is customer's in-store map genererated by shoppoing list.
 4. Fouth image is shopping list.
+
+updated on 4/20
