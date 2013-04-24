@@ -59,6 +59,8 @@ Notifications and Log Out affordances appear in this panel.
 
 **06 / Poll Detail**
 
+**07 / Poll Detail, scrolled down**
+
 The Poll Detail offers a variety of data about the poll, including
 
 -   A bar graph of the current votes, with voter attribution beneath
@@ -66,10 +68,6 @@ The Poll Detail offers a variety of data about the poll, including
 -   A map of where votes are coming from
 
 -   A comments area where conversation around poll content can emerge
-
-
-
-**07 / Poll Detail, scrolled**
 
 
 
