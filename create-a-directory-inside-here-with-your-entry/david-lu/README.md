@@ -26,8 +26,8 @@ Description
 **Concept**
 
 My proposed app is called "A/B." It's a polling space for gathering second
-opinions about the things *we might buy* or *have recently bought*. A/B polls
-have a uniform format, made up of:
+opinions about things *we might buy* or *have recently bought*. A/B polls have a
+uniform format, made up of:
 
 -   a framing question: "Which of these shall I buy?" "Which of these shall I
     keep?"
@@ -74,8 +74,8 @@ and has narrowed his choices down to 2 DSLRs, a Nikon and a Canon. So he posts
 an A/B poll asking for help deciding. Within a few days, a handful of
 thoughtful, informed comments appear on his poll. He taps into the commenters'
 profiles and sees that they are camera experts who don't mind sharing their
-experiences with newcomers. He follows them for future reference. And adds the
-Nikon to his target.com wishlist.
+expertise. He follows them for future reference, and adds the Nikon to his
+target.com wishlist.
 
 
 
