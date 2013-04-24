@@ -1,4 +1,4 @@
-A/B
+œA/B
 ===
 
 
@@ -42,7 +42,7 @@ have a uniform format, possessing:
 **The Feed**
 
 Polls appear in an Instagram-like, vertically scrolling feed. Big product images
-fill up the screen. One can switch between "All Polls" and "Polls I follow" by
+fill the screen. One can switch between "All Polls" and "Polls I follow" by
 tapping or swiping the header, a la Sparrow.
 
 
@@ -90,6 +90,10 @@ Detail screen. This screen, too, has a variety of data, including:
 -   Following
 
 -   Followers
+
+
+
+One can follow or unfollow a user from this screen.
 
 
 
