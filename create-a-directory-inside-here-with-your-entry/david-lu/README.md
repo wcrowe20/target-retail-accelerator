@@ -1,4 +1,4 @@
-œA/B
+A/B
 ===
 
 
@@ -10,11 +10,11 @@ Team
 
 ### David Lu
 
--   david@velluminous.org
+david@velluminous.org
 
--   206 257 8023
+206 257 8023
 
--   http://work.vellum.cc
+http://work.vellum.cc
 
 
 
@@ -27,73 +27,20 @@ Description
 
 My proposed app is called "A/B." It's a polling space for gathering second
 opinions about the things *we might buy* or *have recently bought*. A/B polls
-have a uniform format, possessing:
+have a uniform format, made up of:
 
--   a framing question
+-   a framing question: "Which of these shall I buy?" "Which of these shall I
+    keep?"
 
-    -   "Which of these shall I buy?" "Which of these shall I keep?"
-
--   2 possible answers ("a" or "b")
-
-    -   each has a product image and caption
+-   2 possible answers: A or B. Each has a product image and caption
 
 
 
-**The Feed**
-
-Polls appear in an Instagram-like, vertically scrolling feed. Big product images
-fill the screen. One can switch between "All Polls" and "Polls I follow" by
-tapping or swiping the header, a la Sparrow.
+**Scenarios**
 
 
 
-**Voting**
-
-One swipes horizontally between A or B product images for each poll. To vote,
-one taps a checkmark button on either image. When one has voted, the
-non-selected checkmark button disappears, and the tapped checkmark takes on a
-selected state. To unvote, one taps the selected checkmark button again.
-
-
-
-Immediately after voting, a green button appears beneath the poll, labeled,
-"Care to say why?" One might tap this to view the Poll Detail, where one might
-add commentary on the poll.
-
-
-
-**Poll Detail**
-
-The Poll Detail offers a variety of data about the poll, including
-
--   A bar graph of the current votes, with voter attribution beneath
-
--   A map of where votes are coming from
-
--   A comments area where conversation around poll content can emerge
-
-
-
-**User Detail**
-
-From anywhere in the app, one might tap a user's avatar to arrive at a User
-Detail screen. This screen, too, has a variety of data, including:
-
--   A measure of sameness
-
-    -   "You and this user agree on 33% of the polls you have both taken"
-
--   Polls this user has posted
-
--   Polls this user has voted on
-
--   Following
-
--   Followers
-
-
-
-One can follow or unfollow a user from this screen.
+TBD
 
 
 
@@ -108,22 +55,18 @@ Everyone in this system gets something out of participating.
     altruism in helping others have a broader point of view in their purchasing
     decisions.
 
--   **Target and the Brands It Carries **-
+-   **Target**
 
-    -   get *demand data* on the products in Target's inventory
+    -   gets *demand data* on the products in Target's inventory (which products
+        are most wanted, which products are preferred regionally)
 
-        -   which products are most wanted
+    -   gets improved *related product clustering (*"customers frequently
+        compared *this* product to *that* product")
 
-        -   which products are preferred regionally
-
-    -   get improved *related product clustering*
-
-        -   "customers frequently compared *this* product to *that* product"
-
-    -   get to identify customers of influence — based on number of followers
+    -   gets to identify customers of influence, based on number of followers
         and votes
 
-    -   get to identify expert users — based on commenting activity
+    -   gets to identify expert users, based on commenting activity
 
 
 
