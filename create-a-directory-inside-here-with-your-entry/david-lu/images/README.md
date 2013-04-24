@@ -5,7 +5,21 @@ Images
 
 **00 / Splash Screen**
 
+
+
 **01 / Add Poll**
+
+One adds a framing question for the poll by tapping in the white field. Each A
+or B answer has a caption field, where one can type each product's name.
+Pollsters have the option of searching for a matching product when typing. If
+one selects a product from the matched results, the image is populated with an
+existing product image.
+
+
+
+Pollsters can add their own image to each A or B answer. One taps the camera
+button in the lower left corner of each image to get an action sheet with
+options to: Take Photo, Choose Photo, or Search for Product.
 
 
 
