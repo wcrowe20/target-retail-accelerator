@@ -48,33 +48,33 @@ Jason Wu for Target Poplin Dress in Navy. She adds a poll with A/B, substituting
 a couple self portraits taken in the dressing room mirror for the regular
 product images from target.com. She makes the poll private, so only her friends
 can see it. As she changes into her work clothes, she sees her phone buzzing
-with notifications. 4 of 5 friends so far preferred the Missoni. Done and Done.
-She purchases it a few minutes later.
+with notifications. Four of five friends so far preferred the Missoni. Done and
+Done. She purchases it a few minutes later.
 
 
 
 *Recent Purchase*
 
 Sally is assembling her ideal living room on a budget. She purchased two Target
-Home Medallion Rugs (one in cream, one in indigo), but only intends to keep one.
-She carefully places the cream one in her living room, photographs it, then does
-the same for the indigo. She flips between the two photos on her phone and
-realizes that she could use a 2nd opinion. So she posts an A/B poll,
-substituting the photos she just took for the regular product images on
-target.com. Within an hour, she sees a dozen or so votes, from both friends and
-strangers, favoring the cream rug. She returns the indigo one the next day.
+Home Medallion Rugs (in cream and indigo), but only intends to keep one. She
+carefully places the cream rug in her living room, photographs it, then does the
+same for the indigo. She flips between the two photos on her phone and realizes
+that she could use a second opinion. So she posts an A/B poll, substituting the
+photos she just took for the regular product images on target.com. Within an
+hour, she sees a dozen or so votes, from both friends and strangers, favoring
+the cream rug. She returns the indigo one the next day.
 
 
 
 *Future Purchase*
 
-Sam is shopping for a camera to give his daughter. He loved photography in his
-youth, and wants to introduce her to the art. He knows what he'd like to spend,
-and has narrowed his choices down to 2 DSLRs, a Nikon and a Canon. So he posts
-an A/B poll asking for help deciding. Within a few days, a handful of
-thoughtful, informed comments appear on his poll. He taps into the commenters'
-profiles and sees that they are camera experts who don't mind sharing their
-expertise. He follows them for future reference, and adds the Nikon to his
+Sam is shopping for a camera for his daughter. Her birthday is in a few months.
+She's been shooting with a point-and-shoot and is ready for an upgrade. He knows
+what he'd like to spend, and sees that two DSLRs, a Nikon and a Canon, fit his
+budget. Sam posts an A/B poll asking for help deciding. Within a few days, a
+handful of thoughtful, informed comments appear on his poll. He taps into
+commenters' profiles and sees they are camera experts who don't mind sharing
+their expertise. He follows them for future reference, and adds the Nikon to his
 target.com wishlist.
 
 
