@@ -3,7 +3,9 @@ Images
 
 
 
-**01 / Splash Screen**
+**00 / Splash Screen**
+
+**01 / Add Poll**
 
 
 
@@ -86,11 +88,5 @@ might allow Target staff to see which products are trending. It's searchable:
 the "all products" text is actually a form field.
 
 
-
-**10 / Top Wanters for Product, Web Tool**
-
-Another aspect of this tool might allow "top wanters" to emerge from the data.
-Here, we're looking at users who've demonstrated interest in a product, sorted
-by number of followers (a sign of influence).
 
 
