@@ -106,7 +106,7 @@ Everyone in this system gets something out of participating.
 
 
 Additionally, unlike many "like economies", this is a completely open data
-platform. Everyone in the system can look at the data of anyone else in the
+platform. Anyone in the system can look at the data of anyone else in the
 system.
 
 
