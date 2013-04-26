@@ -1,0 +1,1 @@
+My video is 28 seconds long.
